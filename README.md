@@ -2,7 +2,6 @@
 
 # 🏒 Hockey Player Information System 🏒
 
-(https://img.shields.io/badge/Python-3.8+-green.svg)](https://www.python.org/downloads/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-orange.svg)](https://openai.com/)
 [![Supabase](https://img.shields.io/badge/Supabase-Database-blueviolet.svg)](https://supabase.io/)
 
